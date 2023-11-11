@@ -3,10 +3,10 @@ Markelov Danila
 # Contact Information
 Discord - [hny_badger](discordapp.com/users/hny_badger)
 Telegram - [@HNY_Badger](t.me/HNY_Badger)
-# Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+# Brief Self-Introduction
 Mostly self-taught programmer, love to learn new stuff
 I can easily pick up new language if needed (Bless you, Google)
-# Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+# Skills
 Wrote at least 10 lines of code in:
 * C#
 * Visual Basic (I wish to forget this)
